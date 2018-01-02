@@ -1,2 +1,2 @@
 # prolog
-# prolog
+Prolog example
